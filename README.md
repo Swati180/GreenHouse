@@ -40,7 +40,7 @@
 ## Contributors
 
 * [@Swati Parmar](https://github.com/Swati180)
-* [@Naveen Saini](https://github.com/naveenSaini1))
+* [@Naveen Saini](https://github.com/naveenSaini1)
 
 
 
@@ -85,7 +85,7 @@
 
 ---
 
-![order-c](https://user-images.githubusercontent.com/101573398/208416004-0cc418ab-0a6e-454a-ae2e-27c408d437eb.png)
+![order-c](![image](https://user-images.githubusercontent.com/105964095/208513253-07181821-71b3-4f80-8d1c-429e9d6a4bf7.png)
 
 ---
 
